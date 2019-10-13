@@ -7,4 +7,6 @@ This project has three scripts: `loadPics.py`, which takes a directory of dog im
 
 The following picture is a result of training the model on 15,000 golden retriever headshots for 11,000 steps:
 
+![Generated Dog Pics](https://user-images.githubusercontent.com/33944844/66719392-ed288100-edbc-11e9-9d8c-f0eb3a70773a.png "Generated Dog Pics")
+
 Not perfect, but there's definitely some dogs in there! :)
